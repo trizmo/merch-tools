@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/merch-tools/static/css/main.7dd535dc.chunk.css",
-    "main.js": "/merch-tools/static/js/main.73da1fb1.chunk.js",
-    "main.js.map": "/merch-tools/static/js/main.73da1fb1.chunk.js.map",
+    "main.css": "/merch-tools/static/css/main.c3f0fd14.chunk.css",
+    "main.js": "/merch-tools/static/js/main.e52d30c4.chunk.js",
+    "main.js.map": "/merch-tools/static/js/main.e52d30c4.chunk.js.map",
     "runtime-main.js": "/merch-tools/static/js/runtime-main.179806a1.js",
     "runtime-main.js.map": "/merch-tools/static/js/runtime-main.179806a1.js.map",
     "static/css/2.af3c1da9.chunk.css": "/merch-tools/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.14d6c09f.chunk.js": "/merch-tools/static/js/2.14d6c09f.chunk.js",
-    "static/js/2.14d6c09f.chunk.js.map": "/merch-tools/static/js/2.14d6c09f.chunk.js.map",
+    "static/js/2.05925efa.chunk.js": "/merch-tools/static/js/2.05925efa.chunk.js",
+    "static/js/2.05925efa.chunk.js.map": "/merch-tools/static/js/2.05925efa.chunk.js.map",
     "index.html": "/merch-tools/index.html",
-    "precache-manifest.9877c7588f0198ca42059e33f66a9402.js": "/merch-tools/precache-manifest.9877c7588f0198ca42059e33f66a9402.js",
+    "precache-manifest.4c6e12c161e58570649810ef7c78ca50.js": "/merch-tools/precache-manifest.4c6e12c161e58570649810ef7c78ca50.js",
     "service-worker.js": "/merch-tools/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/merch-tools/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.7dd535dc.chunk.css.map": "/merch-tools/static/css/main.7dd535dc.chunk.css.map",
-    "static/js/2.14d6c09f.chunk.js.LICENSE.txt": "/merch-tools/static/js/2.14d6c09f.chunk.js.LICENSE.txt",
+    "static/css/main.c3f0fd14.chunk.css.map": "/merch-tools/static/css/main.c3f0fd14.chunk.css.map",
+    "static/js/2.05925efa.chunk.js.LICENSE.txt": "/merch-tools/static/js/2.05925efa.chunk.js.LICENSE.txt",
+    "static/media/car1.jpg": "/merch-tools/static/media/car1.c110854f.jpg",
+    "static/media/car2.jpg": "/merch-tools/static/media/car2.3ee50395.jpg",
+    "static/media/car3.jpg": "/merch-tools/static/media/car3.e5670bce.jpg",
     "static/media/logo.svg": "/merch-tools/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.179806a1.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.14d6c09f.chunk.js",
-    "static/css/main.7dd535dc.chunk.css",
-    "static/js/main.73da1fb1.chunk.js"
+    "static/js/2.05925efa.chunk.js",
+    "static/css/main.c3f0fd14.chunk.css",
+    "static/js/main.e52d30c4.chunk.js"
   ]
 }
