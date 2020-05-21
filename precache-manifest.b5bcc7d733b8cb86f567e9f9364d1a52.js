@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c585b7a503d6246f91abb225a1bd66c",
+    "revision": "bef15b62a885d4b5ed7ca54c77e743fd",
     "url": "/merch-tools/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/merch-tools/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "cfb8c9cc69133d09e52d",
-    "url": "/merch-tools/static/css/main.c3f0fd14.chunk.css"
+    "revision": "06a7ef3685b9771e58ff",
+    "url": "/merch-tools/static/css/main.89212ae5.chunk.css"
   },
   {
     "revision": "3bd72046173932f92ac1",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/merch-tools/static/js/2.05925efa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfb8c9cc69133d09e52d",
-    "url": "/merch-tools/static/js/main.e52d30c4.chunk.js"
+    "revision": "06a7ef3685b9771e58ff",
+    "url": "/merch-tools/static/js/main.2540ef97.chunk.js"
   },
   {
     "revision": "1dfcf3c343c6977f4d83",
